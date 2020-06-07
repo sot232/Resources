@@ -1,7 +1,21 @@
-## Language Related
+# Research Article
+
+## Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches
+
+Which deep learning technique represents the state-of-the-art for top-n recommendation tasks? The researhcers reproduced 7 algorithms and found 6 of them could be consistently outperform comparably simple methods.
 
 
-### Skip-Thought Vectors
+
+Submitted on: Sep 2019
+
+Type: Research Paper (RecSys)
+
+Reference: https://dl.acm.org/doi/pdf/10.1145/3298689.3347058
+
+Tags: `recommendation system`, `RecSys`
+
+
+## Skip-Thought Vectors
 
 Submitted on: 22 Jun 2015
 
@@ -11,11 +25,11 @@ Article: https://arxiv.org/pdf/1506.06726.pdf
 
 Reference: https://arxiv.org/abs/1506.06726
 
+Tags: `language`, `recommendation system`
 
+# Blogs
 
-## Dealing with Data
-
-### Dealing with Imbalanced Data
+## Dealing with Imbalanced Data
 
 Used the Credit Card Fraud Detection Dataset which has only 0.17% of transactions being classified as fraudulent. For imbalanced data, 1. you would have a problem with getting a good accuracy. 2. you would have a performace issue.
 
@@ -36,9 +50,11 @@ Code: https://www.kaggle.com/tboyle10/methods-for-dealing-with-imbalanced-data
 
 Reference: https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18
 
-### Learning from imbalanced data
+Tags: `data`, `imbalanced data`
 
-Majority Class: 
+## Learning from imbalanced data
+
+Majority Class vs Minority Class
 
 
 Wrote on: 15 Feb 2018
@@ -47,11 +63,14 @@ Type: Blog Article
 
 Reference: https://www.jeremyjordan.me/imbalanced-data/
 
+## Graph based recommnedation engine for Amazon products
 
-## Topics that Need to Study in the Future
+Wrote on: 4 Jan 2018
 
-- Dummy Classifier
-- Oversampling.
-- Undersampling: It can be good when you have a ton of data. You will remove information that may be valuable.
-- Synthetic Samples. (SMOTE, Synthetic Minority Oversampling Technique, etc)
-- SMOTE: It "uses a nearest neighbors algorithm to generate new and synthetic data."
+Type: Medium Article
+
+Reference: https://towardsdatascience.com/graph-based-recommendation-engine-for-amazon-products-1a373e639263
+
+Tags: `recommendation system`, `graph theory`
+
+
