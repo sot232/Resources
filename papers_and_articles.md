@@ -74,3 +74,14 @@ Reference: https://towardsdatascience.com/graph-based-recommendation-engine-for-
 Tags: `recommendation system`, `graph theory`
 
 
+## Illustrated Guide to LSTM’s and GRU’s: A step by step explanation
+
+This is really good article. Well explaining LSTM and GRU. Great Visualizations! A YouTube video is available as well.
+
+Wrote on: 42 Sep 2018
+
+Type: Medium Article
+
+Reference: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+
+Tags: `LSTM`, `GRU`, `Deep Learning`, `RNN`
