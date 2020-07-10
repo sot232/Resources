@@ -9,6 +9,10 @@
 - Graph Theory
 - Vertex Classification. It is a task of assigning categories to each. vertex in a graph based on both vertex attributes and link structure.
 
+# Articles and Research Papers I Want to Read
+
+- Finding a "Kneedle" in a Haystack: Detecting Knee Points in System Behavior. Published in 2011. (https://raghavan.usc.edu//papers/kneedle-simplex11.pdf) 
+
 # Questions
 
 - What are pros and cons of using ALS, Doc2Vec, Graph-based, and other types of recommender systems?
