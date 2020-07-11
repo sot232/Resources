@@ -86,7 +86,7 @@ Reference: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a
 
 Tags: `LSTM`, `GRU`, `Deep Learning`, `RNN`
 
-<details><summary>Three Popular Clustering Methods and When to Use Each</summary>
+<details><summary><h3>Three Popular Clustering Methods and When to Use Each</h3></summary>
 <p>
 Hierarchical Clustering. 
 
