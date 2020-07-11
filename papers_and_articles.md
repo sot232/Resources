@@ -78,10 +78,38 @@ Tags: `recommendation system`, `graph theory`
 
 This is really good article. Well explaining LSTM and GRU. Great Visualizations! A YouTube video is available as well.
 
-Wrote on: 42 Sep 2018
+Wrote on: Sep 2018
 
 Type: Medium Article
 
 Reference: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
 Tags: `LSTM`, `GRU`, `Deep Learning`, `RNN`
+
+## Three Popular Clustering Methods and When to Use Each
+
+Hierarchical Clustering. 
+
+Density-Based Clustering.
+
+K-Means Clustering.
+
+Wrote on: 21 Sep 2018
+
+Type: Medium Article
+
+Reference: https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6
+
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
