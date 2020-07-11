@@ -110,6 +110,8 @@ Tags: `LSTM`, `GRU`, `Deep Learning`, `RNN`
 <details><summary><strong>Three Popular Clustering Methods and When to Use Each</strong></summary>
 <p>
 
+Recommend to read this.
+
 Hierarchical Clustering. 
 
 Density-Based Clustering.
@@ -121,6 +123,18 @@ Wrote on: 21 Sep 2018
 Type: Medium Article
 
 Reference: https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6
+
+</p>
+</details>
+
+<details><summary><strong>Powered by AI: Instagram’s Explore recommender system</strong></summary>
+<p>
+
+Wrote on: 26 Nov 2019
+
+Type: Medium Article
+
+Reference: https://instagram-engineering.com/powered-by-ai-instagrams-explore-recommender-system-7ca901d2a882
 
 </p>
 </details>
