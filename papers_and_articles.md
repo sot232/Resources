@@ -1,9 +1,9 @@
 # Research Article
 
-## Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches
+<details><summary><strong>Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches</strong></summary>
+<p>
 
 Which deep learning technique represents the state-of-the-art for top-n recommendation tasks? The researhcers reproduced 7 algorithms and found 6 of them could be consistently outperform comparably simple methods.
-
 
 
 Submitted on: Sep 2019
@@ -14,8 +14,11 @@ Reference: https://dl.acm.org/doi/pdf/10.1145/3298689.3347058
 
 Tags: `recommendation system`, `RecSys`
 
+</p>
+</details>
 
-## Skip-Thought Vectors
+<details><summary><strong>Skip-Thought Vectors</strong></summary>
+<p>
 
 Submitted on: 22 Jun 2015
 
@@ -27,9 +30,13 @@ Reference: https://arxiv.org/abs/1506.06726
 
 Tags: `language`, `recommendation system`
 
+</p>
+</details>
+
 # Blogs
 
-## Dealing with Imbalanced Data
+<details><summary><strong>Dealing with Imbalanced Data</strong></summary>
+<p>
 
 Used the Credit Card Fraud Detection Dataset which has only 0.17% of transactions being classified as fraudulent. For imbalanced data, 1. you would have a problem with getting a good accuracy. 2. you would have a performace issue.
 
@@ -52,7 +59,11 @@ Reference: https://towardsdatascience.com/methods-for-dealing-with-imbalanced-da
 
 Tags: `data`, `imbalanced data`
 
-## Learning from imbalanced data
+</p>
+</details>
+
+<details><summary><strong>Learning from imbalanced data</strong></summary>
+<p>
 
 Majority Class vs Minority Class
 
@@ -62,8 +73,12 @@ Wrote on: 15 Feb 2018
 Type: Blog Article
 
 Reference: https://www.jeremyjordan.me/imbalanced-data/
+</p>
+</details>
 
-## Graph based recommnedation engine for Amazon products
+
+<details><summary><strong>Graph based recommnedation engine for Amazon products</strong></summary>
+<p>
 
 Wrote on: 4 Jan 2018
 
@@ -73,8 +88,11 @@ Reference: https://towardsdatascience.com/graph-based-recommendation-engine-for-
 
 Tags: `recommendation system`, `graph theory`
 
+</p>
+</details>
 
-## Illustrated Guide to LSTM’s and GRU’s: A step by step explanation
+<details><summary><strong>Illustrated Guide to LSTM’s and GRU’s: A step by step explanation</strong></summary>
+<p>
 
 This is really good article. Well explaining LSTM and GRU. Great Visualizations! A YouTube video is available as well.
 
@@ -86,8 +104,12 @@ Reference: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a
 
 Tags: `LSTM`, `GRU`, `Deep Learning`, `RNN`
 
+</p>
+</details>
+
 <details><summary><strong>Three Popular Clustering Methods and When to Use Each</strong></summary>
 <p>
+
 Hierarchical Clustering. 
 
 Density-Based Clustering.
@@ -99,5 +121,6 @@ Wrote on: 21 Sep 2018
 Type: Medium Article
 
 Reference: https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6
+
 </p>
 </details>
