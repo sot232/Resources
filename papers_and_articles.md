@@ -138,3 +138,19 @@ Reference: https://instagram-engineering.com/powered-by-ai-instagrams-explore-re
 
 </p>
 </details>
+
+<details><summary><strong>Understanding AUC - ROC Curve</strong></summary>
+<p>
+
+> [An AUC - ROC Curve is] important evaluation metrics for checking any classification model’s performance
+
+> ROC is a probability curve and AUC represents degree or measure of separability. It tells how much model is capable of distinguishing between classes.
+
+Wrote on: 26 Jun 2018
+
+Type: Medium Article
+
+Reference: https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
+
+</p>
+</details>
