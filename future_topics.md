@@ -1,7 +1,9 @@
 # Topics that I Want to Study in the Future
 
 - Dummy Classifier.
-- Support Vector Machines (SVM), one of the well-known kernelized classification techniques. 
+- NearestNeighbors.
+- KNeighborsClassifier.
+- Support Vector Machines (SVM), one of the well-known kernelized classification techniques.
 - Oversampling.
 - Undersampling: It can be good when you have a ton of data. You will remove information that may be valuable.
 - Synthetic Samples. (SMOTE, Synthetic Minority Oversampling Technique, etc)
